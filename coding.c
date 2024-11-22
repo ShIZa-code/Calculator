@@ -1,3 +1,5 @@
+//this code was written by CT-110.
+
 #include <stdio.h>
 
 int main() {
