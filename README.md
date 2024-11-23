@@ -12,6 +12,7 @@ This is a simple calculator application written in C. It performs basic arithmet
 - Division
 
 ## Running the Calculator
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/simple-calculator.git
@@ -23,6 +24,7 @@ This is a simple calculator application written in C. It performs basic arithmet
    ./calculator
 
 ## Git Commands Used :
+
 git init: Initializes a new Git repository.
 git add .: Stages all changes for commit.
 git commit -m "Initial commit with basic calculator functionality": Commits the changes with a descriptive message.
