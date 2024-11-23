@@ -1,7 +1,6 @@
-Name: Shiza Naveed (CT-110) - coder
-Name: Ifrah Naeem (CTGA-23015) - Document specialist
+<p>Name: Shiza Naveed (CT-110) - coder</p>
+<p>Name: Ifrah Naeem (CTGA-23015) - Document specialist</p>
 
-This repo is all about calculator.
 # Simple Calculator in C
 
 ## Overview
