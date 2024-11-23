@@ -18,8 +18,6 @@ This is a simple calculator application written in C. It performs basic arithmet
 2. Navigate to the project directory:
    cd simple-calculator
 3.Compile the program using the gcc compiler:
-   bash
-   Copy code
    gcc calculator.c -o calculator
 4. Run the program
    ./calculator
